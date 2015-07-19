@@ -2,7 +2,7 @@
   "name": "pd-gulp-less",
   "description": "pd-gulp generator for less tasks",
   "author": "Christian Blaschke <mail@platdesign.de>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "gulp": "^3.8.11",
     "gulp-autoprefixer": "^2.1.0",

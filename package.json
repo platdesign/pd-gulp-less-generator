@@ -1,0 +1,22 @@
+{
+  "name": "pd-gulp-less",
+  "description": "pd-gulp generator for less tasks",
+  "author": "Christian Blaschke <mail@platdesign.de>",
+  "version": "0.0.2",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-header": "^1.2.2",
+    "gulp-less": "^3.0.3",
+    "gulp-livereload": "^3.5.0",
+    "gulp-minify-css": "^0.4.5",
+    "gulp-plumber": "^0.6.6",
+    "gulp-util": "^3.0.2",
+    "gulp-watch": "^4.1.0",
+    "pd-gulp-task-generator-generator": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/platdesign/pd-gulp-less-generator.git"
+  }
+}
